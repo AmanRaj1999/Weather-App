@@ -1,5 +1,5 @@
 # Weather App
 
-## Developed using HTML,CSS and JavaScript
+## Developed using HTML,CSS and JavaScript.
 
 ![Output](Output.png)
